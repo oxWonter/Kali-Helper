@@ -25,4 +25,5 @@ THREE PYTHON SCRIPST WILL BE ADDED SOON.
 # Installation
 
 g++ KaliHelper.cpp -o kali-helper
+
 sudo ./kali-helper
